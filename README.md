@@ -1,2 +1,3 @@
-# JFROG-SONARQUBE
-REFERE HERE FOR JFROG ARTIFACTORY &amp;&amp; SONARQUBE SETUP &amp; integration with Jenkins
+# DevOps
+### This repository contains the documents related to DevOps Complete Course. 
+
